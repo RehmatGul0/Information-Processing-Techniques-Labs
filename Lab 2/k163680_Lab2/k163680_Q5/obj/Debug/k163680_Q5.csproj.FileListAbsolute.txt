@@ -1,0 +1,11 @@
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\obj\Debug\k163680_Q5.csprojAssemblyReference.cache
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\obj\Debug\k163680_Q5.CurrencyConversionForm.resources
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\obj\Debug\k163680_Q5.Properties.Resources.resources
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\obj\Debug\k163680_Q5.csproj.GenerateResource.cache
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\bin\Debug\k163680_Q5.exe.config
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\bin\Debug\k163680_Q5.exe
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\bin\Debug\k163680_Q5.pdb
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\bin\Debug\CurrencyConversion.dll
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\obj\Debug\k163680_Q5.csproj.CopyComplete
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\obj\Debug\k163680_Q5.exe
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q5\obj\Debug\k163680_Q5.pdb

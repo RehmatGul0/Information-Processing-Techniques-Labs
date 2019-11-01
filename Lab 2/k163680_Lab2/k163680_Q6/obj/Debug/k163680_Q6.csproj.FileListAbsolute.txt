@@ -1,0 +1,6 @@
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q6\obj\Debug\k163680_Q6.csprojAssemblyReference.cache
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q6\bin\k163680_Q6.dll.config
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q6\bin\k163680_Q6.dll
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q6\bin\k163680_Q6.pdb
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q6\obj\Debug\k163680_Q6.dll
+F:\FAST NU\Semester 7\Infomation Processing Techniques CS-423\assignments\Lab 2\k163680_Lab2\k163680_Q6\obj\Debug\k163680_Q6.pdb
