@@ -1,7 +1,7 @@
 # Information-Processing-Techniques-Labs
 Information Processing Techniques Lab1 and Lab2
 
-                                                                        LAB 1
+LAB 1
                                                                             
 Question 1:Write a C# program (Console Application) which will accept string input from user and create a new stringwith first 4 characters will be in 
 lower caseand rest of the letter will be upper case.
@@ -19,7 +19,7 @@ Question 5:You have two character arrays (strings). You have to compare if both 
 string string1 = new string(new char[] { 'h', 'e', 'l', 'l', 'o' }); string string2 = new string(new char[] { 'h', 'e', 'l', 'l', 'o' }); 
 public static bool CompareObjects (object name, object name2) { } 
 
-                                                                        LAB 2
+LAB 2
                                                                         
 Question No 1:Generate an array of 1 million random numbers and perform ‘searching’ on that arrayto find all occurrences of the given number.Measure 
 time difference on the following techniques: •Search the Array on one thread (no threading code required) •Search Array using 5 different threads 
